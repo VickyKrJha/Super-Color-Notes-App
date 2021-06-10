@@ -1,9 +1,22 @@
 # Super Color Notes App in Android
  Super Color Notes having Awesome Designs and Functionalities.
 
-## Google Play Store Link [Download App from Google Play Store]
+# Google Play Store Link [Download App from Google Play Store]
 
 [https://play.google.com/store/apps/details?id=com.vickysg.notesapp]
+
+
+## How to Use this App
+
+****************************************************************
+
+- [First Step to Download repository]
+- [Second Step Open Project in Android Studio]
+- [Third Step is Enjoying the Project]
+
+
+*****************************************************************
+
 
 ## Screenshots
 
